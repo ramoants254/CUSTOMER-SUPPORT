@@ -1,0 +1,58 @@
+{
+  "services": [
+    {
+      "name": "Process Automation",
+      "description": "Streamline repetitive business processes and eliminate manual work",
+      "features": ["Workflow design", "Task automation", "Error handling", "Performance monitoring"],
+      "use_cases": ["Data entry automation", "Report generation", "Email processing", "Invoice handling"],
+      "pricing": "Starting from $3,000"
+    },
+    {
+      "name": "Robotic Process Automation (RPA)",
+      "description": "Software robots that mimic human actions to complete business processes",
+      "features": ["UI automation", "Data extraction", "System integration", "Exception handling"],
+      "use_cases": ["Form filling", "Data migration", "Legacy system interaction", "Compliance reporting"],
+      "pricing": "Starting from $4,500"
+    },
+    {
+      "name": "Workflow Optimization",
+      "description": "Analyze and improve existing business workflows for maximum efficiency",
+      "features": ["Process mapping", "Bottleneck identification", "Performance metrics", "Continuous improvement"],
+      "use_cases": ["Supply chain optimization", "Customer onboarding", "HR processes", "Quality assurance"],
+      "pricing": "Starting from $2,500"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What types of processes can be automated?",
+      "answer": "We can automate rule-based, repetitive processes such as data entry, report generation, email processing, invoice handling, customer onboarding, and compliance reporting."
+    },
+    {
+      "question": "How much time can automation save?",
+      "answer": "Typical automation projects save 60-80% of time spent on manual processes. For example, a 4-hour daily task can often be reduced to 30-60 minutes."
+    },
+    {
+      "question": "Do you work with existing software systems?",
+      "answer": "Yes, we integrate with virtually any software system including ERPs, CRMs, databases, web applications, and legacy systems through APIs, RPA, or custom connectors."
+    },
+    {
+      "question": "What is the ROI of process automation?",
+      "answer": "Most automation projects show ROI within 6-12 months through reduced labor costs, improved accuracy, and faster processing times. We provide detailed ROI calculations during planning."
+    },
+    {
+      "question": "Can automation handle exceptions and errors?",
+      "answer": "Yes, we build robust error handling and exception management into all automation solutions, including human escalation for complex cases."
+    }
+  ],
+  "tools": [
+    "Python", "Selenium", "Beautiful Soup", "Zapier", "Microsoft Power Automate", "UiPath", "Apache Airflow", "Celery", "APIs", "Webhooks"
+  ],
+  "benefits": [
+    "Reduced operational costs",
+    "Improved accuracy and consistency", 
+    "Faster processing times",
+    "24/7 availability",
+    "Scalable operations",
+    "Better compliance"
+  ]
+}

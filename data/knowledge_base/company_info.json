@@ -1,0 +1,45 @@
+{
+  "company": {
+    "name": "Relego AI Solutions",
+    "description": "Cutting-edge technology company specializing in AI-driven solutions for businesses",
+    "mission": "Transforming businesses through intelligent automation and AI innovation",
+    "website": "https://ndezwa.dev",
+    "email": "support@ndezwa.dev"
+  },
+  "services": [
+    {
+      "name": "AI Development",
+      "description": "Custom AI agents, machine learning models, and generative AI solutions",
+      "starting_price": "$5,000"
+    },
+    {
+      "name": "Automation Solutions", 
+      "description": "Process automation and workflow optimization",
+      "starting_price": "$3,000"
+    },
+    {
+      "name": "Full-Stack Development",
+      "description": "Web applications and API development", 
+      "starting_price": "$4,000"
+    },
+    {
+      "name": "Cybersecurity Services",
+      "description": "Security audits and secure development",
+      "starting_price": "$2,000"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What industries do you serve?",
+      "answer": "We serve businesses across all industries, with particular expertise in healthcare, finance, e-commerce, and technology sectors."
+    },
+    {
+      "question": "Do you offer free consultations?",
+      "answer": "Yes! We provide free initial consultations to understand your requirements and recommend the best solutions."
+    },
+    {
+      "question": "What is your typical project timeline?",
+      "answer": "Project timelines vary based on complexity. Simple automation projects can be completed in 2-4 weeks, while complex AI implementations may take 2-6 months."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "services": [
+    {
+      "name": "Web Applications",
+      "description": "Modern, responsive web applications built with cutting-edge technologies",
+      "features": ["Responsive design", "Progressive Web Apps", "Real-time features", "Cloud deployment"],
+      "use_cases": ["Business dashboards", "E-commerce platforms", "SaaS applications", "Portfolio websites"],
+      "pricing": "Starting from $4,000"
+    },
+    {
+      "name": "API Development",
+      "description": "Robust backend services and RESTful APIs for your applications",
+      "features": ["RESTful architecture", "GraphQL support", "Authentication", "Rate limiting", "Documentation"],
+      "use_cases": ["Mobile app backends", "System integrations", "Microservices", "Third-party integrations"],
+      "pricing": "Starting from $3,500"
+    },
+    {
+      "name": "Database Design",
+      "description": "Scalable database architecture and optimization",
+      "features": ["Schema design", "Query optimization", "Data migration", "Backup strategies"],
+      "use_cases": ["Data warehousing", "Analytics platforms", "User management systems", "Content management"],
+      "pricing": "Starting from $2,500"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What technologies do you use for web development?",
+      "answer": "We use modern frameworks like React, Vue.js, and Angular for frontend, Node.js, Python (Django/FastAPI), and .NET for backend, with databases like PostgreSQL, MongoDB, and Redis."
+    },
+    {
+      "question": "Do you build mobile-responsive applications?",
+      "answer": "Yes, all our web applications are built with mobile-first design principles and are fully responsive across all devices and screen sizes."
+    },
+    {
+      "question": "Can you integrate with existing systems?",
+      "answer": "Absolutely! We specialize in integrating with existing CRMs, ERPs, payment gateways, third-party APIs, and legacy systems through robust API connections."
+    },
+    {
+      "question": "Do you provide hosting and deployment services?",
+      "answer": "Yes, we offer cloud deployment on AWS, Azure, or Google Cloud with automated CI/CD pipelines, monitoring, and maintenance services."
+    },
+    {
+      "question": "What is your development process?",
+      "answer": "We follow Agile methodology with regular sprints, daily standups, and continuous delivery. You'll have access to staging environments and regular progress updates."
+    }
+  ],
+  "technologies": {
+    "frontend": ["React", "Vue.js", "Angular", "TypeScript", "Tailwind CSS", "Bootstrap"],
+    "backend": ["Node.js", "Python", "Django", "FastAPI", "Express.js", ".NET Core"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Elasticsearch"],
+    "cloud": ["AWS", "Azure", "Google Cloud", "Vercel", "Heroku"],
+    "tools": ["Docker", "Kubernetes", "Git", "CI/CD", "Jest", "Cypress"]
+  },
+  "project_types": [
+    "E-commerce platforms",
+    "Business dashboards", 
+    "SaaS applications",
+    "Content management systems",
+    "Portfolio websites",
+    "API services",
+    "Mobile app backends"
+  ]
+}

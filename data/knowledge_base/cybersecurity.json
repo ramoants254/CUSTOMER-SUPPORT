@@ -1,0 +1,63 @@
+{
+  "services": [
+    {
+      "name": "Security Audits",
+      "description": "Comprehensive security assessments to identify vulnerabilities and risks",
+      "features": ["Vulnerability scanning", "Code review", "Infrastructure assessment", "Compliance checking"],
+      "use_cases": ["Annual security reviews", "Pre-deployment assessments", "Compliance audits"],
+      "pricing": "Starting from $2,000"
+    },
+    {
+      "name": "Penetration Testing",
+      "description": "Simulated cyber attacks to identify security weaknesses before malicious actors do",
+      "features": ["Network testing", "Web application testing", "Social engineering", "Wireless security"],
+      "use_cases": ["Security validation", "Compliance requirements", "Risk assessment"],
+      "pricing": "Starting from $3,500"
+    },
+    {
+      "name": "Secure Development",
+      "description": "Security-first development practices and secure code implementation",
+      "features": ["Secure coding practices", "Security by design", "Threat modeling", "Code security reviews"],
+      "use_cases": ["New application development", "Legacy system hardening", "DevSecOps integration"],
+      "pricing": "Starting from $4,000"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What types of security audits do you perform?",
+      "answer": "We perform comprehensive security audits including network security assessments, web application security testing, infrastructure reviews, code audits, and compliance assessments for standards like GDPR, HIPAA, and SOC2."
+    },
+    {
+      "question": "How often should we conduct security assessments?",
+      "answer": "We recommend annual comprehensive security audits, quarterly vulnerability assessments, and security testing after any major system changes or before new deployments."
+    },
+    {
+      "question": "Do you provide remediation guidance?",
+      "answer": "Yes, all our security assessments include detailed remediation recommendations with prioritized action plans, implementation guidance, and follow-up support."
+    },
+    {
+      "question": "Can you help with compliance requirements?",
+      "answer": "Absolutely! We help organizations achieve and maintain compliance with GDPR, HIPAA, PCI DSS, SOC2, ISO 27001, and other industry-specific security standards."
+    },
+    {
+      "question": "What is included in penetration testing?",
+      "answer": "Our penetration testing includes network scanning, web application testing, social engineering assessments, wireless security testing, and detailed reporting with executive summaries and technical findings."
+    }
+  ],
+  "compliance_standards": [
+    "GDPR", "HIPAA", "PCI DSS", "SOC2", "ISO 27001", "NIST", "CIS Controls", "OWASP"
+  ],
+  "security_areas": [
+    "Network Security",
+    "Web Application Security", 
+    "Mobile Application Security",
+    "Cloud Security",
+    "Data Protection",
+    "Identity Management",
+    "Incident Response",
+    "Security Training"
+  ],
+  "tools": [
+    "Nessus", "Burp Suite", "OWASP ZAP", "Metasploit", "Nmap", "Wireshark", "SonarQube", "Checkmarx"
+  ]
+}

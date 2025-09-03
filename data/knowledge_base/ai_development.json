@@ -1,0 +1,53 @@
+{
+  "services": [
+    {
+      "name": "Custom AI Agents",
+      "description": "Intelligent assistants tailored to your business needs, including chatbots, virtual assistants, and task-specific AI agents",
+      "features": ["Natural language processing", "Intent recognition", "Multi-channel deployment", "Custom training"],
+      "use_cases": ["Customer support automation", "Lead qualification", "Internal process assistance"],
+      "pricing": "Starting from $5,000"
+    },
+    {
+      "name": "Machine Learning Models",
+      "description": "Predictive analytics and data insights through custom ML models",
+      "features": ["Classification models", "Regression analysis", "Recommendation systems", "Anomaly detection"],
+      "use_cases": ["Sales forecasting", "Risk assessment", "Fraud detection", "Customer segmentation"],
+      "pricing": "Starting from $7,500"
+    },
+    {
+      "name": "Generative AI Solutions", 
+      "description": "Content creation and automation using large language models and generative AI",
+      "features": ["Text generation", "Content optimization", "Creative writing", "Code generation"],
+      "use_cases": ["Marketing content", "Technical documentation", "Product descriptions"],
+      "pricing": "Starting from $6,000"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What types of AI models do you build?",
+      "answer": "We build various types of AI models including classification models, regression models, recommendation systems, natural language processing models, computer vision models, and custom generative AI solutions."
+    },
+    {
+      "question": "How long does it take to develop a custom AI agent?",
+      "answer": "Development time varies based on complexity. Simple chatbots can be built in 2-4 weeks, while complex AI agents with multiple integrations may take 6-12 weeks."
+    },
+    {
+      "question": "Do you provide training data or do we need to provide it?",
+      "answer": "We can work with your existing data or help you collect and prepare training data. We also offer data augmentation and synthetic data generation services when needed."
+    },
+    {
+      "question": "Can you integrate AI models with our existing systems?",
+      "answer": "Yes, we specialize in seamless integration with existing business systems through APIs, webhooks, and custom connectors. We support integration with CRMs, databases, and enterprise software."
+    },
+    {
+      "question": "What programming languages and frameworks do you use?",
+      "answer": "We primarily use Python with frameworks like TensorFlow, PyTorch, and scikit-learn. For deployment, we use FastAPI, Docker, and cloud platforms like AWS and Azure."
+    }
+  ],
+  "technologies": [
+    "Python", "TensorFlow", "PyTorch", "scikit-learn", "Transformers", "OpenAI GPT", "LangChain", "Vector Databases", "FastAPI", "Docker", "Kubernetes"
+  ],
+  "industries": [
+    "Healthcare", "Finance", "E-commerce", "Manufacturing", "Education", "Real Estate", "Legal Services"
+  ]
+}
